@@ -11,6 +11,8 @@
 ![Sartori's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSartori&show_icons=true&theme=highcontrast)
 
 ## Skills
+
+<div>Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:</div>
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
@@ -31,3 +33,8 @@
  ## Contacts
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-sartori-dev/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the.sartori/) [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sartori_cf@hotmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=47999309929)
+
+<br><br><br>
+<hr>
+
+<div>Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios. Não esqueça de deixar uma estrela se você encontrar algo interessante!</div>
