@@ -2,7 +2,7 @@
 
 ![Sartori's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSartori&show_icons=true&theme=highcontrast)
 
-[Banner ou Gif Animado Relacionado à Tecnologia](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)
+![Banner ou Gif Animado Relacionado à Tecnologia](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)
 
 ## Skills
 <div style="display: inline_block"><br/>
