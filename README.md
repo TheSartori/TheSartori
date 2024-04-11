@@ -38,3 +38,4 @@
 <hr>
 
 <div>Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios. Não esqueça de deixar uma estrela se você encontrar algo interessante!</div>
+<!--EU USO DIV  PORQUE MEU TEXTO NÃO SE IDENTIFICA COMO UM TEXTO-->
