@@ -1,8 +1,14 @@
 # Olá, eu sou Tiago Sartori 👋
 
-![Sartori's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSartori&show_icons=true&theme=highcontrast)
+<div>Olá! Sou apaixonado por tecnologia e desenvolvimento frontend. Estudo Análise de Dados. Atualmente, estou aprofundando meus conhecimentos em HTML, CSS e JavaScrip. Minha jornada em tecnologia continua a todo vapor!💪🦾</div>
+
+<br><br><br>
 
 ![Banner ou Gif Animado Relacionado à Tecnologia](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZqNHV2ZW9sdWF1bTRmMjZiZGlueG9ncHNvOGE3dHZxaWY0OWY2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+
+<hr>
+
+![Sartori's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSartori&show_icons=true&theme=highcontrast)
 
 ## Skills
 <div style="display: inline_block"><br/>
