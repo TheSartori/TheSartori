@@ -1,6 +1,6 @@
 # Olá, eu sou Tiago Sartori 👋
 
-<div>Olá! Sou apaixonado por tecnologia e desenvolvimento frontend. Estudo Análise de Dados. Atualmente, estou aprofundando meus conhecimentos em HTML, CSS e JavaScript. Minha jornada em tecnologia continua a todo vapor!💪🦾</div>
+<div>Olá! Sou apaixonado por tecnologia e desenvolvimento frontend. Estudo Análise de Dados e Sistemas da Informação. Atualmente, estou aprofundando meus conhecimentos em HTML, CSS e JavaScript. Minha jornada em tecnologia continua a todo vapor!💪🦾</div>
 
 <br><br><br>
 
